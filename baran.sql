@@ -197,9 +197,7 @@ CREATE TABLE `s110_users` (
 --
 
 INSERT INTO `s110_users` (`number`, `username`, `password`) VALUES
-(2, 'Ali', '202cb962ac59075b964b07152d234b70'),
-(3, 'h', '202cb962ac59075b964b07152d234b70'),
-(4, 'saalek110', '25d55ad283aa400af464c76d713c07ad'),
+(2, 'test', '202cb962ac59075b964b07152d234b70'),
 (9, 'admin', '81dc9bdb52d04dc20036dbd8313ed055');
 
 --
